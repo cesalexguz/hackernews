@@ -1,0 +1,3 @@
+{"timestamp": "2024-09-18T21:45:12.608841", "filter_type": "run_crawler"}
+{"timestamp": "2024-09-18T21:45:18.322150", "filter_type": "less_than_or_equal_to_five_words"}
+{"timestamp": "2024-09-18T21:45:22.898581", "filter_type": "more_than_five_words"}

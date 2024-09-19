@@ -1,0 +1,38 @@
+[
+    {
+        "number": "26.",
+        "title": "Gentle Guide to Self-Hosting",
+        "points": "270",
+        "comments": "107"
+    },
+    {
+        "number": "27.",
+        "title": "The Dune Shell",
+        "points": "179",
+        "comments": "56"
+    },
+    {
+        "number": "5.",
+        "title": "Comic Mono",
+        "points": "174",
+        "comments": "54"
+    },
+    {
+        "number": "15.",
+        "title": "Bento: Jupyter Notebooks at Meta",
+        "points": "173",
+        "comments": "76"
+    },
+    {
+        "number": "9.",
+        "title": "Llama 3.1 Omni Model",
+        "points": "171",
+        "comments": "17"
+    },
+    {
+        "number": "13.",
+        "title": "Interning in Go",
+        "points": "63",
+        "comments": "14"
+    }
+]
